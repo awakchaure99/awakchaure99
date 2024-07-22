@@ -1,15 +1,5 @@
-- 👋 Hi, I’m Ashish Wakchaure
-- 👀 I’m interested in new technologies
-- 🌱 I’m currently learning Machinne Learning Operatios
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-awakchaure99/awakchaure99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <h1 align="center">Hi 👋, I'm Ashish Wakchaure 🌀 from India 🇮🇳</h1>
-<h3 align="center">The DevOps Guy who ♥ automating stuff</h3>
+<h3 align="center">The DevOps/DevSecOps Guy who ♥ learning new stuff</h3>
 
 <p align="center">
 <a href="www.linkedin.com/in/ashishwakchaure" target="blank">
@@ -20,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 🌱 I’m currently working on **Building MLOps Platform to train , package and deploy ML Models using opensource tools like Kubeflow and Kserve**
 
-💬 Ask me about **DevOps/MLOps Tools and Practices**
+💬 Ask me about **DevOps/DevSecOps/MLOps Tools and Best Practices**
 
 📫 You can reach me at **job.ashishw@gmail.com**
 
@@ -72,4 +62,4 @@ You can click the Preview link to take a look at your changes.
 #### Editor / IDE I ♥
 <p align="left"><img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="sublime" title="sublime" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yatharth0045&show_icons=true&hide=stars,issues" alt="yatharth0045" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=awakchaure99&show_icons=true&hide=stars,issues" alt="awakchaure99" /></p>
