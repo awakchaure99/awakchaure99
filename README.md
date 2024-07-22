@@ -3,8 +3,11 @@
 
 <p align="center">
 <a href="www.linkedin.com/in/ashishwakchaure" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" alt="ashishwakchaure" width="22px" />
+  <a href="https://www.linkedin.com/in/ashishwakchaure/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
+&nbsp;
 </a>
+
+
 
 🏢 I’m currently working in [Equal Experts](https://www.equalexperts.com/) as **Senior DevOps Engineer**
 
