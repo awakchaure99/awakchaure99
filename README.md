@@ -31,7 +31,7 @@
 
 - 📦 Terraform modules for setting up Infrastructure over AWS
  
-- 📦 Trying out OPA policies with terraform ( https://github.com/awakchaure99/tf-opa-sample-invalid-cidr )
+- 📦 Trying out OPA policies with terraform ( https://github.com/awakchaure99/tf-opa-aws-secretmanager )
 
 
 ##### 🧾 Certifications I have Accomplished
