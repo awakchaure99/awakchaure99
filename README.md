@@ -19,7 +19,7 @@
 
 ##### 👨‍💻 Some of the projects I have worked recently
 
-- 📦 Deploy LLM using Kserve and RayServe and inference latency and resource requirements
+- 📦 Deploy LLM using Kserve and RayServe , Update configurations to improve inference latency and ammend resource requirements with autoscaling
  
 - 📦 Implement Docker scaning and plublish a CVE report and attach the same in ML Model's docker image as a model signature
  
