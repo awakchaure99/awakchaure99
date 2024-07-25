@@ -31,8 +31,9 @@
 
 - 📦 Terraform modules for setting up Infrastructure over AWS
  
-- 📦 Trying out OPA policies with terraform ( https://github.com/awakchaure99/tf-opa-aws-secretmanager )
+- 📦 Trying out OPA policies with terraform and Kubernetes ( https://github.com/awakchaure99/tf-opa-aws-secretmanager )
 
+- 📦 Evaluate dependency update solutions like Renovate and Dependabot 
 
 ##### 🧾 Certifications I have Accomplished
 
