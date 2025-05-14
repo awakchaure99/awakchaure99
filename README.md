@@ -9,7 +9,7 @@
 
 
 
-🏢 I’m currently working in [Equal Experts](https://www.equalexperts.com/) as **Senior DevOps Engineer**
+🏢 I’m currently working in [Equal Experts](https://www.equalexperts.com/) as **Lead DevOps Engineer**
 
 🌱 I’m currently working on **Building MLOps Platform to train , package and deploy ML Models using opensource tools like Kubeflow and Kserve**
 
